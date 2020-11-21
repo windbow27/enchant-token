@@ -1,0 +1,8 @@
+name: EnchantToken
+main: me.WindBow.Main
+version: 1.0
+author: WindBow
+api-version: 1.16
+
+commands:
+  explosive:
